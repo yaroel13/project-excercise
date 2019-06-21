@@ -1,0 +1,27 @@
+[
+  {
+    "id" : 1001,
+    "last_name" : "Quijano",
+    "first_name" : "Ray",
+    "middle_name" : "Sandolan",
+    "address" : "Dasma Cavite",
+    "hobbies" : "OT"
+  },
+  
+  {
+    "id" : 1002,
+    "last_name" : "Quijano",
+    "first_name" : "Ray",
+    "middle_name" : "Sandolan",
+    "address" : "Dasma Cavite",
+    "hobbies" : "OT"
+  },  
+  {
+    "id" : 1003,
+    "last_name" : "Quijano",
+    "first_name" : "Ray",
+    "middle_name" : "Sandolan",
+    "address" : "Dasma Cavite",
+    "hobbies" : "OT"
+  },
+]
