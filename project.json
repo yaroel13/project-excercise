@@ -1,18 +1,12 @@
 [{
 "id" : 0,
-"name" : "PMRS", 
-"min_user" : 100,
-"amount_per_user": 1000
+"project_name" : "PMRS"
 },
 {
 "id" : 0,
-"name" : "PMRS", 
-"min_user" : 100,
-"amount_per_user": 1000
+"project_name" : "Hackathon"
 },
 {
 "id" : 0,
-"name" : "PMRS", 
-"min_user" : 100,
-"amount_per_user": 1000
+"project_name" : "KM"
 }]
