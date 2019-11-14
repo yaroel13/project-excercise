@@ -1,18 +1,18 @@
-  {
-    "id" : 0,
-    "name" : "PMRS", 
-    "min_user" : 100,
-    "amount_per_user": 1000
-  },
-  {
-    "id" : 0,
-    "name" : "PMRS", 
-    "min_user" : 100,
-    "amount_per_user": 1000
-  },
-  {
-    "id" : 0,
-    "name" : "PMRS", 
-    "min_user" : 100,
-    "amount_per_user": 1000
-  }
+[{
+"id" : 0,
+"name" : "PMRS", 
+"min_user" : 100,
+"amount_per_user": 1000
+},
+{
+"id" : 0,
+"name" : "PMRS", 
+"min_user" : 100,
+"amount_per_user": 1000
+},
+{
+"id" : 0,
+"name" : "PMRS", 
+"min_user" : 100,
+"amount_per_user": 1000
+}]
