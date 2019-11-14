@@ -1,0 +1,10 @@
+{  
+    "invoice": {  
+        "invoice_code": {
+            "id": 1,
+            "invoice_code": "100001"
+        },
+        "user_count": 100,
+        "amount_per_user": 100.00
+    }
+}
