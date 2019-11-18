@@ -1,0 +1,20 @@
+{
+  "ad-set":[
+    {
+      "id" : 0,
+      "url" : "https://d2slcw3kip6qmk.cloudfront.net/marketing/press/images/template-gallery/banner-ad1-728x90.jpeg"
+    },
+    {
+      "id" : 1,
+      "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6lwRddA7zzLdrX2ztRuRoAPmVaAXRBbYM7qCiZjck_ITt32B&s"
+    },
+    {
+      "id" : 2,
+      "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ9fvtX_ggxyPUmqX9Fl04FvYM24OP-_VKUpJ-dOMmhJG_wKbxRg&s"
+    },
+    {
+      "id" : 3,
+      "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTh3iIuX3TnFVUYXRUGe0R_H695HSBd25F1WoqDPJ1FwCkGFUg&s"
+    }
+  ]
+}
