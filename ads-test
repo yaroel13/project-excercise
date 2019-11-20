@@ -12,17 +12,17 @@
             {
                 "type": "IMAGE",
                 "code": "64cbf9bc-bf40-4cf9-85d8-6fbb58a843bc",
-                "content": "http://64cbf9bc-bf40-4cf9-85d8-6fbb58a843bc.jpg"
+                "content": "https://d2slcw3kip6qmk.cloudfront.net/marketing/press/images/template-gallery/banner-ad1-728x90.jpeg"
             },
             {
                 "type": "IMAGE",
                 "code": "2d03c88f-2997-40e8-b285-911c1ff29b4e",
-                "content": "http://2d03c88f-2997-40e8-b285-911c1ff29b4e.jpg"
+                "content": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6lwRddA7zzLdrX2ztRuRoAPmVaAXRBbYM7qCiZjck_ITt32B&s"
             },
             {
                 "type" : "IMAGE",
                 "code" : "391d183e-4992-4be5-b462-19ca92f636d3",
-                "content": "http://391d183e-4992-4be5-b462-19ca92f636d3.jpg"
+                "content": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ9fvtX_ggxyPUmqX9Fl04FvYM24OP-_VKUpJ-dOMmhJG_wKbxRg&s"
             }
         ]
     }
