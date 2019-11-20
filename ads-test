@@ -1,20 +1,29 @@
 {
-  "ad-set":[
-    {
-      "id" : 0,
-      "url" : "https://d2slcw3kip6qmk.cloudfront.net/marketing/press/images/template-gallery/banner-ad1-728x90.jpeg"
-    },
-    {
-      "id" : 1,
-      "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6lwRddA7zzLdrX2ztRuRoAPmVaAXRBbYM7qCiZjck_ITt32B&s"
-    },
-    {
-      "id" : 2,
-      "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ9fvtX_ggxyPUmqX9Fl04FvYM24OP-_VKUpJ-dOMmhJG_wKbxRg&s"
-    },
-    {
-      "id" : 3,
-      "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTh3iIuX3TnFVUYXRUGe0R_H695HSBd25F1WoqDPJ1FwCkGFUg&s"
+    "ad": {
+        "campaign": {
+            "code" : "PFIQ4",
+            "name": "Saganang Kalusugan Q4 2019"
+        },
+        "ad_set": {
+            "code": "PFIQ4-DR",
+            "name": "Doctor Ad - SK2019q4"
+        },
+        "assets": [
+            {
+                "type": "IMAGE",
+                "code": "64cbf9bc-bf40-4cf9-85d8-6fbb58a843bc",
+                "content": "http://64cbf9bc-bf40-4cf9-85d8-6fbb58a843bc.jpg"
+            },
+            {
+                "type": "IMAGE",
+                "code": "2d03c88f-2997-40e8-b285-911c1ff29b4e",
+                "content": "http://2d03c88f-2997-40e8-b285-911c1ff29b4e.jpg"
+            },
+            {
+                "type" : "IMAGE",
+                "code" : "391d183e-4992-4be5-b462-19ca92f636d3",
+                "content": "http://391d183e-4992-4be5-b462-19ca92f636d3.jpg"
+            }
+        ]
     }
-  ]
 }
